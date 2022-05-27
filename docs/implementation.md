@@ -1,15 +1,3 @@
-## **Visão Geral**
-O **dotnet-errorhandler-app-plugin** adiciona em uma stack a capacidade de padronizar os retornos de erro das aplicações REST.
-
-#### **Pré-requisitos**
-Para utilizar este plugin é necessário ter uma Stack DotNET criada pelo `CLI` do `StackSpot` que você pode baixar [**aqui**](https://stackspot.com/).
-
-Também ter instalado:
-- .NET 5 ou 6 
-- O template base de `dotnet-api-template` deverá estar aplicado para que seja possível utilizar este plugin. 
-
-### **Uso**
-
 Adicione ao seu `IApplicationBuilder`, via `app.UseErrorHandler()`, no `Startup` da aplicação ou `Program`. 
 
 ```csharp
