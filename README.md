@@ -1,0 +1,1 @@
+# dotnet-errorhandler-app-plugin
