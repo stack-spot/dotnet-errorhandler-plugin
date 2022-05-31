@@ -1,5 +1,5 @@
 ## **Visão Geral**
-O **dotnet-errorhandler-app-plugin** adiciona em uma stack a capacidade de padronizar os retornos de erro das aplicações REST.
+O **dotnet-errorhandler-plugin** adiciona em uma stack a capacidade de padronizar os retornos de erro das aplicações REST.
 
 #### **Pré-requisitos**
 Para utilizar este plugin é necessário ter uma Stack DotNET criada pelo `CLI` do `StackSpot` que você pode baixar [**aqui**](https://stackspot.com/).

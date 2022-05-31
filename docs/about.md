@@ -1,1 +1,1 @@
-O **dotnet-errorhandler-app-plugin** adiciona em uma stack a capacidade de padronizar os retornos de erro das aplicações REST.
+O **dotnet-errorhandler-plugin** adiciona em uma stack a capacidade de padronizar os retornos de erro das aplicações REST.

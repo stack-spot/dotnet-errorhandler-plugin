@@ -1,4 +1,4 @@
-name: dotnet-errorhandler-app-plugin
+name: dotnet-errorhandler-plugin
 description: Plug-in para padronizar os retornos de erro das aplicações REST.
 types:
 - app
